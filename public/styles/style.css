@@ -1,0 +1,15 @@
+.header_nav li {
+  display: inline-block;
+  cursor: pointer;
+  list-style: none;
+  
+}
+
+.logo {
+  font-size: 2em;
+}
+
+.product_image {
+  max-width: 20vw;
+  max-height: 20vw;
+}

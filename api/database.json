@@ -1,0 +1,21 @@
+{
+  "products":[
+    {
+      "title": "HX Stomp",
+      "id": 1,
+      "description": "Its Amazing",
+      "price": 600,
+      "quantity": 0,
+      "image": "https://www.theguitarmagazine.com/wp-content/uploads/2018/10/HXStomp_Front.jpg"
+    },
+    {
+      "title": "HX Stomp",
+      "id": 2,
+      "description": "Its Amazing",
+      "price": 600,
+      "quantity": 0,
+      "image": "https://www.theguitarmagazine.com/wp-content/uploads/2018/10/HXStomp_Front.jpg"
+    }
+  ]
+  
+}
